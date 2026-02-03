@@ -10,7 +10,7 @@ Input data samples z are collected
 
 A parametric PDF is assumed
 
-Model parameters are learned from data
+Model parameters are learned from the data
 
 The learned PDF is compared with the data histogram
 
@@ -34,8 +34,14 @@ The close alignment between the histogram and the learned PDF indicates effectiv
 
 Tools Used
 
-Python, NumPy, Matplotlib
+Python
+
+NumPy
+
+Matplotlib
 
 Author
 
 Anshika Ahuja
+
+Matplotlib
